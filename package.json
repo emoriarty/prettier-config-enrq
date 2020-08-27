@@ -1,0 +1,7 @@
+{
+  "name": "prettier-config-enrq",
+  "version": "1.0.0",
+  "description": "My custom prettier configuration rules",
+  "main": "index.json",
+  "license": "UNLICENSED"
+}
